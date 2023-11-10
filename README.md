@@ -1,2 +1,10 @@
-# my-WIP-portfolio
-This repository will serve as a portfolio of the programs and projects that I have developed, or have been a part of. I plan to update this portfolio as I continue down my career, and further down the road, I'll likely leave this repo as a draft for a more professional portfolio down the line.
+# Leonardo Cañamar Amaya: Student of Robotics Engineering
+#### phone number: +52 813 1383 935 email: leocanamar@gmail.com
+****
+
+## Table of Contents:
+<ul>
+  <li><a href="#about-me">About Me</a></li>
+</ul>
+
+## About Me
