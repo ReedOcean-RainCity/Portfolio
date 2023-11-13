@@ -19,7 +19,7 @@ Ever since I was young, as far back as I can remember, I've always loved making 
 Since then, I've aimed my sights on robotics and AI. Having studied highschool in Canada, I was able to cater my education towards the robotics and the programming that I so loved. I even designed for my course selection to match up to the pre-requisites for the Universsity of Toronto from the very first year. During my time in highschool, I learned how to program Java, Javasscript and other derivative languages, as well as a small amount of arduino.
 
 
-[1]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/tree/8a9880566803b5a0535f00ec00747fccfa6ba799/Robot%20Simulations%20and%20Programming
+[1]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/blob/c2caeb2b9ea2890f7ce31d31022cc239288ecc0b/Robot%20Simulations%20and%20Programming/Project_Index.md
 <!---
 I am studying Computational Robotics Engineering at the Universidad Politécnica de Yucatán (UPY). Though I have some projects and programs that I have developed before my time at the UPY, most of these programs are ones that were made with the sole intention of learning to program. I began my programming career some, roughly, 7 years ago. I began by learning HTML and CSS, though these are technically markdown languages, It helped to learn the basics of syntax and the general sturcture of code. From then, I also learned Java as my first programming language. But, during my time studying robotics, I have become intamately familliar with programming in Python. Though relatively simple, Python has proven to be a very versatile tool that I have found applies to most any field involved in robotics. 
 
