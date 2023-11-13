@@ -1,13 +1,13 @@
 # Programming and Simulation of Kuka Robots in Cosimir Pro
 ****
+Acronym | Meaning
+---|---
+RGB | red-green-blue, reffers to colour systems that use varying levels of red, green and blue light to create other colours
+****
 project zip file| Project name | Executive summary
 ---|---|---
 [Project_U4.zip][p-u4] | Stack and Sort | A program to stack and sort objects based on colour onto a palette 
 [REACT.zip][react] | Dynamic Reactions | A program to allow a Kuka arm to use a sensor to dynamically react to the changing position of a cube
-****
-Acronym | Meaning
----|---
-RGB | red-green-blue, reffers to colour systems that use varying levels of red, green and blue light to create other colours
 ****
 ## Table of Contents
 - [Project 1: BlockSort][proj-1]
@@ -20,9 +20,9 @@ RGB | red-green-blue, reffers to colour systems that use varying levels of red, 
   - [Results][P2-res]
 ****
 ## Project 1: Block Sort
+##### Fig. 1.  Simulation of robot arm sorting coloured blocks
 ![screenshot of robot arm sorting coloured blocks][sort-sc]
 
-##### Fig. 1.  Simulation of robot arm sorting coloured blocks
 ### Objectives
 To apply learned skills about programming in MELFA-BASIC to a robotic arm equipped with colour sensor and a designated sorting region using Cosimir Pro, in order to further develop, and demonstrate, skill and understanding in programming robotic arms in industrial settings.
 
@@ -42,8 +42,9 @@ Reviewing the code now, I would make the following alterations:
 
 ****
 ## Project 2: Dynamic Reactions
-![screenshot of robot arm reacting to moving object][react-sc]
 ##### Fig. 2.  Simulation of robot arm detecting moving object
+![screenshot of robot arm reacting to moving object][react-sc]
+
 
 ### Objectives
 To apply learned skills about programming in MELFA-BASIC to a robotic arm equipped with colour sensor and a designated sorting region using Cosimir Pro, in order to further develop, and demonstrate, skill and understanding in programming robotic arms in industrial settings.
