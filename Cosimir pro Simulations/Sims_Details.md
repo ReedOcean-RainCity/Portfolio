@@ -68,7 +68,7 @@ Reviewing the code now, I would make the following alterations:
 <!--- Refs --->
 [1]: https://www.slideshare.net/ruben_loredo/programacion-melfa-iv
 <!--- figures and image sources --->
-[fig-1]: #fig-1--screenshot-of-program-simulation
+[fig-1]: #fig-1--simulation-of-robot-arm-sorting-coloured-blocks
 [sort-sc]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/assets/135147457/18ce8692-669e-494c-81b8-03f48109614c
 [fig-2]: #fig-2--simulation-of-robot-arm-detecting-moving-object
 [react-sc]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/assets/135147457/64afa54f-1b93-4658-9e15-75f3124171a3
