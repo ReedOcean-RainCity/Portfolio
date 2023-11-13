@@ -1,4 +1,4 @@
-# Programming and Simulation of Kuka Robots in Cosimir Pro
+# Programming and Simulation of Kuka Robots in RoboDK
 ****
 Acronym | Meaning
 ---|---
@@ -52,7 +52,7 @@ Reviewing the code now, I would make the following alterations:
 [im2-sc]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/assets/135147457/2f848dd6-1954-486e-bf16-02db4a071ad2
 
 <!--- File Paths --->
-[file]: x
+[file]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/blob/56e76c7a63457d678533ad9c87dfb5eb072c2529/Robot%20Simulations%20and%20Programming/Robo_DK/ConveyorAndArm_ASSEMBLY.rdk
 <!--- Project --->
 [proj]: #conveyor-belt-simulation
 [obj]: #objectives
