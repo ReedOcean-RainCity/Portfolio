@@ -1,4 +1,4 @@
-# Programming and Simulation of Kuka Robots in Cosimir Pro
+# Programming and Simulation of Mitsubishi Robots in Cosimir Pro
 ****
 Acronym | Meaning
 ---|---
