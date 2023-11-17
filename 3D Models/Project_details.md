@@ -17,7 +17,7 @@ project zip file| Project name | Executive summary
 ## 3D Model of a Simple Robotic Arm
 
 ##### Fig. 1.  Full Construction of Arm in FreeCAD 
-![screenshot of robot arm and conveyor belt][im-sc]
+![image][im-sc]
 
 ### Objectives
 To apply learned skills about 3D modelling and the design process using CAD software, in order to further develop, and demonstrate, skill and understanding in designing parts and full models for robotics projects.
@@ -30,13 +30,14 @@ The final product is a model, and a series of sketches for each part of the mode
 
 
 <!--- figures and image sources --->
-[fig-1]: #fig-1--simulation-of-robotic-arm-and-conveyor-belt-in-robodk
-[im-sc]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/assets/135147457/7966f905-b80c-41a8-b1d7-5043e037933d
+[fig-1]: #fig-1--full-construction-of-arm-in-freecad
+[im-sc]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/assets/135147457/b132ab01-16d5-43be-b83a-d5a54775c483
+
 <!--- File Paths ---/>
 [file]: https://github.com/ReedOcean-RainCity/my-WIP-portfolio/blob/56e76c7a63457d678533ad9c87dfb5eb072c2529/Robot%20Simulations%20and%20Programming/Robo_DK/ConveyorAndArm_ASSEMBLY.rdk
 --->
 <!--- Project --->
-[proj]: #conveyor-belt-simulation
+[proj]: #3d-model-of-a-simple-robotic-arm
 [obj]: #objectives
 [dev]: #development
 [res]: #results
